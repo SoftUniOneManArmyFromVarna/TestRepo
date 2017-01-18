@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 name = Mesut Ozil
 size = 110
 email = mesut@arsenal.com
+=======
+name = Alexis Sanchez
+size = 120
+email = alexis@arsenal.com
+>>>>>>> cb64426f86573a732ff174b3531097e3b51af5fb
